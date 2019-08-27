@@ -8,7 +8,7 @@ German translations for react-admin, the frontend framework for building admin a
 npm install --save ra-language-korean
 ```
 
-##Usage
+## Usage
 
 ```
 import koreanMessages from 'ra-language-korean';
@@ -23,6 +23,6 @@ const i18nProvider = locale => messages[locale];
 </Admin>
 ```
 
-##License
+## License
 
 This translation is licensed under the MIT Licence.
