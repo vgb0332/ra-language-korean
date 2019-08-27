@@ -23,6 +23,9 @@ const i18nProvider = locale => messages[locale];
 </Admin>
 ```
 
+## for Korean Users
+번역에 문제가 있으면 Issue란에 올려주시거나 Pull request 해주세요.
+
 ## License
 
 This translation is licensed under the MIT Licence.
