@@ -1,0 +1,24 @@
+{
+  "name": "ra-language-korean",
+  "version": "1.0.0",
+  "description": "korean translations for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgb0332/ra-language-korean"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "translation"
+  ],
+  "author": "Yongsuk(Mark) Jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vgb0332/ra-language-korean/issues"
+  },
+  "homepage": "https://github.com/vgb0332/ra-language-korean#readme"
+}
