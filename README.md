@@ -1,6 +1,7 @@
 # Korean Translations for react-admin
 
-German translations for react-admin, the frontend framework for building admin applications on top of REST services.
+Korean translations for react-admin, the frontend framework for building admin applications on top of REST services.
+
 
 ## Installation
 
