@@ -92,9 +92,9 @@ module.exports = {
         },
         auth: {
             user_menu: '프로필',
-            username: '사용자이름',
+            username: '아이디',
             password: '비밀번호',
-            sign_in: '회원가입',
+            sign_in: '로그인',
             sign_in_error: '인증 실패. 다시 시도해주세요.',
             logout: '로그아웃',
         },
